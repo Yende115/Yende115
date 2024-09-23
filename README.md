@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello World! Welcome to my profile 👋
+
+Novice developer from Valais, Switzerland 🇨🇭 Working on a few Java and VBA projects.
+
+<h2>Learning</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,visualstudio" />
+  <p>Java, Visual Basic for Applications</p>
+</div>
 
 <!--
 **Yende115/Yende115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
