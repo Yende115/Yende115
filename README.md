@@ -4,8 +4,8 @@ Novice developer from Valais, Switzerland 🇨🇭 Working on a few Java and VBA
 
 <h2>Learning</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,visualstudio" />
-  <p>Java, Visual Basic for Applications</p>
+  <img src="https://skillicons.dev/icons?i=java,py,visualstudio" />
+  <p>Java, Python, Visual Basic for Applications</p>
 </div>
 
 <!--
