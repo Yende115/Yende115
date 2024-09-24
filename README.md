@@ -10,7 +10,7 @@ Novice developer from Valais, Switzerland 🇨🇭 Working on a few Java and VBA
 
 <h2>Programming languages I use most</h2>
 <div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=Yende115&count_private=true&theme=transparent&border_radius=10" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yende115&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph"/>
 </div>
 <!--
 **Yende115/Yende115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
