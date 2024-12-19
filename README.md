@@ -1,11 +1,11 @@
 ### Hello World! Welcome to my profile 👋
 
-Novice developer from Valais, Switzerland 🇨🇭 Working on a few Java and VBA projects.
+Novice developer from Valais, Switzerland 🇨🇭 Working on a few Java and VB projects.
 
 <h2>Learning</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,py,visualstudio" />
-  <p>Java, Python, Visual Basic for Applications</p>
+  <p>Java, Python, Visual Basic</p>
 </div>
 
 <h2>Programming languages I use most</h2>
